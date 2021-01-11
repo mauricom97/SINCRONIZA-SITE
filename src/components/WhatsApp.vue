@@ -16,7 +16,7 @@ export default {};
 .whats {
   position: fixed;
   bottom: 50px;
-  right: 50px;
+  right: 10px;
   z-index: 9999;
   height: 50px;
   text-indent: -9999px;

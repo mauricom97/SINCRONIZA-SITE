@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
     "quasar": "^1.0.0",
-    "vue": "^2.6.11",
+    "vue": "^2.6.12",
     "vue-phone-mask-input": "^1.1.11"
   },
   "devDependencies": {
