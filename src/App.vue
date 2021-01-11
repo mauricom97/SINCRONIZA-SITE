@@ -1,7 +1,7 @@
 <template>
   <div class="app">
 
-      <div class="q-pa-md doc-container">
+      <div class="q-pa-md doc-container flex flex-center">
         <center><img class src="../public/img/sincroniza.png" alt=""></center>
       </div>
     <div class="btns">
